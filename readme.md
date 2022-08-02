@@ -1,2 +1,1 @@
-## Studying C Programming
-## Changed
+## C programming
